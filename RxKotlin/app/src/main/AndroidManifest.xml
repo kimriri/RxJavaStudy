@@ -22,8 +22,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
         <activity android:name=".com.Week4Assignment"/>
+        <activity android:name=".com.Week5Assignment"/>
     </application>
 
 </manifest>
